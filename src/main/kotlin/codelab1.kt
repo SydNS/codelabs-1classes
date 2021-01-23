@@ -1,5 +1,4 @@
 abstract class Dwelling(private var residents: Int) {
-
     abstract val buildingMaterial: String
     abstract val capacity: Int
 
